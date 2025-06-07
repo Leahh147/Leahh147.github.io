@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Jiahao He"
 title_separator          : "-"
 name                     : &name "Jiahao He"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://leahh147.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Leahh147.github.io"
@@ -26,7 +26,7 @@ author:
   name             : "Jiahao He"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Shanghai"
+  location         : "Cambridge"
   employer         : ""
   uri              : # URL
   email            : "leah12577@gmail.com" 
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Leahh147"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
