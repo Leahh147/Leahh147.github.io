@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+- **MEng** in Information and Computer Engineering, *University of Cambridge*, 2025  
+- **BA (Hons)** in Information and Computer Engineering, *University of Cambridge*, 2024  
+- **BEng** in Computer Engineering, *The University of Hong Kong*, 2022  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Work Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Fall 2025 — LLM Research Intern**  
+  *CSAIL, Massachusetts Institute of Technology (MIT)*  
+  *Project:* Econ-policy Domain-Specific Language Copilot  
+  *Supervisor:* Prof. Wojciech Matusik  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Summer 2025 — AI4Science Research Intern**  
+  *Inframind Labs*  
+  *Project:* Physics-Informed Neural Network for Ground-Penetrating Radar  
+
+- **Fall 2024 — Master’s Thesis**  
+  *Department of Engineering, University of Cambridge*  
+  *Topic:* Reinforcement Learning-Based Simulation of Multisensory Perceptuomotor Interaction in Virtual Reality  
+  *Supervisors:* Dr. Florian Fischer, Prof. Per Ola Kristensson  
+
+- **Summer 2023 — Machine Learning Research Intern**  
+  *Department of Computer Science and Technology, University of Cambridge*  
+  *Project:* A Reinforcement Learning Approach to Design Verification  
+  *Supervisors:* Prof. Robert Mullins, Prof. Yiren Zhao  
+
+---
+
+## Skills
+- **Programming:** Python, PyTorch, React
+
+---
+
+## Presentation
+- **Poster Presentation**, *CHIA Conference*, Summer 2025  
+
+---
+
+## Teaching
+- **ENGG1330: Introduction to Python Programming**, *Teaching Assistant*, The University of Hong Kong  
+  *September 2021 – December 2021*  
+
+---
+
+
