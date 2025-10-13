@@ -39,8 +39,14 @@ redirect_from:
 
 ---
 
+## Awards
+- **Christ’s College Exhibition Award**, *University of Cambridge*, 2024–2025  
+- **Dean’s Honour List**, *The University of Hong Kong*, 2020–2022  
+
+---
+
 ## Skills
-- **Programming:** Python, PyTorch, React
+- **Programming:** Python, PyTorch, React  
 
 ---
 
@@ -50,9 +56,10 @@ redirect_from:
 ---
 
 ## Teaching
+- **AI and Robotics**, *Instructor*, TED Programme, Türkiye  
+  *July 2025*  
+
 - **ENGG1330: Introduction to Python Programming**, *Teaching Assistant*, The University of Hong Kong  
   *September 2021 – December 2021*  
 
 ---
-
-
