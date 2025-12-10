@@ -21,7 +21,7 @@ main:
   #  url: /portfolio/
         
   - title: "Blogs for Fun"
-    url: /year-archive/
+    url: /blogs/
     
   - title: "Experience"
     url: /experience/
