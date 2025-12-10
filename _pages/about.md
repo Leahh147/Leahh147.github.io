@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Jiahao He — currently a Master of Engineering graduate in Information and Computer Engineering at University of Cambridge. My academic focus lies in Artificial Intelligence (AI), Human-Computer Interaction (HCI), Reinforcement Learning (RL), and biomechanical user modeling.
+Hi, I’m Jiahao He, an MEng graduate in Information and Computer Engineering at the University of Cambridge. My research sits at the intersection of Human-Centered AI, Reinforcement Learning (RL), and LLMs, with a focus on building AI systems that support transparent and reliable decision-making in societal contexts.
 
-I’m particularly interested in autonomous agents and multi-modal systems that can perceive, reason, and act in complex environments. My goal is to build agents that can understand and interact with the world through multiple sensory channels, with applications in intelligent interfaces and embodied simulations.
+I’m particularly interested in how autonomous agents and multimodal models can help people understand complex environments, evaluate policy trade-offs, and make informed decisions. My goal is to design interpretable, responsible AI systems that collaborate with human users, especially in high-impact domains.
 
-Feel free to reach out if you’re interested in collaboration or discussion!
+
 
