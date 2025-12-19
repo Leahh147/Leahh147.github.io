@@ -76,6 +76,15 @@
   }
 }
 
+/* Portfolio title link color fix */
+.portfolio-title a,
+.portfolio-title a:visited,
+.portfolio-title a:hover,
+.portfolio-title a:active {
+  color: #111827 !important; /* dark neutral */
+  text-decoration: none;
+}
+
 /* === Force portfolio row height === */
 .layout--single .portfolio-row {
   min-height: 320px !important;
