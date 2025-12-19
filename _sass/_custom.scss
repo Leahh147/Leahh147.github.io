@@ -1,0 +1,67 @@
+/* =========================
+   Portfolio Row Layout
+   ========================= */
+
+.portfolio-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.portfolio-row {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.portfolio-row:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
+}
+
+.portfolio-media img {
+  width: 260px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.portfolio-content {
+  flex: 1;
+}
+
+.portfolio-title {
+  margin-top: 0;
+  margin-bottom: 0.3rem;
+}
+
+.portfolio-meta {
+  font-size: 0.9rem;
+  color: #b00000; /* academicpages red accent */
+  margin-bottom: 0.6rem;
+}
+
+.portfolio-excerpt {
+  margin-bottom: 1rem;
+  color: #444;
+}
+
+.portfolio-links .btn {
+  margin-right: 0.5rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .portfolio-row {
+    flex-direction: column;
+  }
+
+  .portfolio-media img {
+    width: 100%;
+    height: auto;
+  }
+}
