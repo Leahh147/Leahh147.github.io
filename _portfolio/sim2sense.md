@@ -8,6 +8,8 @@ header:
   teaser: /images/sim2sense.gif
 
 github: https://github.com/Leahh147/SIM2SENSE
+institution: University of Cambridge
+role: Final Year / Master’s Project
 
 tags:
   - Reinforcement Learning
