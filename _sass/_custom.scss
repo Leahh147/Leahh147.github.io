@@ -27,12 +27,19 @@
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
 }
 
-.layout--single .portfolio-media img {
-  width: 320px !important;
-  max-height: none !important;
-  height: auto !important;
+/* Portfolio media container */
+.portfolio-media {
+  flex: 0 0 38%;          /* image column width */
+  max-width: 38%;
 }
 
+/* Portfolio image */
+.portfolio-media img {
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 10px;
+  object-fit: cover;
+}
 
 .portfolio-content {
   flex: 1;
