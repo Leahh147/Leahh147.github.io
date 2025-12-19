@@ -23,11 +23,12 @@
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.12);
 }
 
-.portfolio-media img {
-  width: 260px;
-  height: 180px;
-  object-fit: cover;
+.layout--single .portfolio-media img {
+  width: 320px !important;
+  max-height: none !important;
+  height: auto !important;
 }
+
 
 .portfolio-content {
   flex: 1;
