@@ -39,10 +39,16 @@
   margin-bottom: 0.3rem;
 }
 
-.portfolio-meta {
-  font-size: 0.9rem;
-  color: #b00000; /* academicpages red accent */
-  margin-bottom: 0.6rem;
+/* === Portfolio meta line (institution / role) === */
+.layout--single .portfolio-meta {
+  font-size: 0.95rem;
+  color: #6b7280 !important; /* neutral grey */
+  margin-bottom: 0.8rem;
+}
+
+.layout--single .portfolio-meta strong {
+  color: #374151 !important; /* darker grey */
+  font-weight: 600;
 }
 
 .portfolio-excerpt {
