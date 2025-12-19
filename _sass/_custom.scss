@@ -64,3 +64,10 @@
     height: auto;
   }
 }
+
+/* === Force portfolio row height === */
+.layout--single .portfolio-row {
+  min-height: 320px !important;
+  padding: 2rem !important;
+  align-items: flex-start !important;
+}
