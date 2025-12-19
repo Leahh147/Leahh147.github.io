@@ -2,10 +2,14 @@
    Portfolio Row Layout
    ========================= */
 
-.portfolio-list {
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
+/* Make portfolio rows wider */
+.layout--single .portfolio-list {
+  max-width: 1100px;   /* adjust: 1100–1300px works well */
+  margin: 0 auto;
+}
+
+.layout--single .portfolio-row {
+  width: 100%;
 }
 
 .portfolio-row {
